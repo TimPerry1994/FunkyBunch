@@ -1,3 +1,4 @@
 # FunkyBunch
 
-Sam Irvine
+Sam Irvine </br>
+Connor Melton </br>
