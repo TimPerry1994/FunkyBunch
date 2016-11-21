@@ -1,3 +1,3 @@
 # FunkyBunch
 
-# Sam Irvine
+Sam Irvine
